@@ -1,4 +1,4 @@
-Given Airline Dataset, create a Dashboard with following queries:-
+Given Space Mission Dataset, create a Dashboard with following queries:-
 
 What are the total number of flights in a day?
 Find the busiest day at SFO Airport
